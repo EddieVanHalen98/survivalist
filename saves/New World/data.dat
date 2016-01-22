@@ -1,0 +1,37 @@
+<data>
+	<world-day>true</world-day>
+	<world-tick>24</world-tick>
+
+
+	<player-maxhealth>20</player-maxhealth>
+	<player-health>8</player-health>
+	<player-x>7</player-x>
+	<player-y>5</player-y>
+	<player-xp>0</player-xp>
+	<player-xp>0</player-xp>
+
+	<player-axe-id>2</player-axe-id>
+	<player-axe-name>stone axe</player-axe-name>
+	<player-axe-strength>3</player-axe-strength>
+	<player-axe-durability>132</player-axe-durability>
+
+	<player-hoe-id>0</player-hoe-id>
+	<player-hoe-name>none</player-hoe-name>
+	<player-hoe-durability>0</player-hoe-durability>
+
+	<player-pickaxe-id>2</player-pickaxe-id>
+	<player-pickaxe-name>stone pickaxe</player-pickaxe-name>
+	<player-pickaxe-harvest>1</player-pickaxe-harvest>
+	<player-pickaxe-strength>2</player-pickaxe-strength>
+	<player-pickaxe-durability>132</player-pickaxe-durability>
+
+	<player-shovel-id>0</player-shovel-id>
+	<player-shovel-name>none</player-shovel-name>
+	<player-shovel-strength>1</player-shovel-strength>
+	<player-shovel-durability>0</player-shovel-durability>
+
+	<player-sword-id>0</player-sword-id>
+	<player-sword-name>none</player-sword-name>
+	<player-sword-strength>0</player-sword-strength>
+	<player-sword-durability>0</player-sword-durability>
+</data>
